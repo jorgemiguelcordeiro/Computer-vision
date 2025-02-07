@@ -24,6 +24,6 @@ The project is organized into different modules, each focusing on a key aspect o
  - 13_tf_object_detection.ipynb – TensorFlow-based object detection
 
 📖 References
-OpenCV University Course
-OpenCV official documentation: https://docs.opencv.org
-TensorFlow Object Detection API
+ - OpenCV University Course
+ - OpenCV official documentation: https://docs.opencv.org
+ - TensorFlow Object Detection API
